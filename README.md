@@ -1,1 +1,15 @@
 # PicoProbeHolder
+
+
+
+Board comming soon
+
+
+
+
+License
+
+Creative Commons License
+This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+
+Feel free to use the design in your private/educational projects, but don't try to sell the design or products based on it without getting my consent first. The idea here is to share knowledge, not to enable others to simply sell my work. Thank you for understanding.
