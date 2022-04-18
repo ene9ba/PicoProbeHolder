@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "PICO probe holder")(type "KiCad")(uri "/home/ene9ba/project/Git/PICO probe holder/PICO probe holder.pretty")(options "")(descr ""))
+  (lib (name "ene9ba_footprint")(type "KiCad")(uri "${KIPRJMOD}/ene9ba_footprint.pretty")(options "")(descr ""))
+)
