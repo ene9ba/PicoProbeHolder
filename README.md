@@ -1,6 +1,8 @@
 
+# Pico Probe Adapter
 
 
+!
 
 Debuging the Raspberry Pi Pico by using the Pico as a Probe is a great thing, but by using a breadborard as interface to the
 target is a little bit anoying. So I decided to design a PICO Probe pcb to make it easier to debug software without any contact 
